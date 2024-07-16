@@ -2,7 +2,7 @@
 
 Visualizations of maximal matching algorithm in the no-CD model.
 
-![Watch here]([https://github.com/db5335/Maximal-Matchings/blob/main/Visualization.mp4](https://www.youtube.com/watch?v=gWN2lbXzgFk))
+![Watch here](https://www.youtube.com/watch?v=gWN2lbXzgFk)
 
 ## References
 
